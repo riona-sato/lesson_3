@@ -1,0 +1,77 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+/* .side{
+  background-color: rgb(203, 232, 243);
+} */
+
+
+footer{
+  background-color: #000066;
+}
+
+
+
+/* header */
+header{
+  background-color: #000066;
+  height: 100px;
+}
+
+header img{
+  margin: 5px;
+  float: left;
+}
+
+ul{
+  list-style: none;
+  cursor: pointer;
+  color: #ffffff;
+}
+
+li{
+  float: right;
+  text-decoration: underline;
+  text-align: center;
+  width: 100px;
+  padding-top:  70px;
+}
+
+/* mein */
+.main-content{
+  float: left;
+}
+
+.float{
+  float: left;
+}
+
+h1{
+  text-align: center;
+  color: darkblue;
+  margin: 10px 0;
+}
+
+main img{
+  width: 300px;
+  margin: 10px;
+}
+
+.arasuji{
+  line-height: 2em;
+}
+
+p{
+  margin: 15px;
+  font-size: 15px;
+}
+
+/* side */
+.side-img{
+width: 100px;
+height: 100px;
+float: left;
+}
+
